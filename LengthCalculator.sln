@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthCalculator", "LengthCalculator.csproj", "{1AB2E009-39D8-4AE5-B19A-4324DE4A0EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB2E009-39D8-4AE5-B19A-4324DE4A0EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB2E009-39D8-4AE5-B19A-4324DE4A0EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB2E009-39D8-4AE5-B19A-4324DE4A0EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB2E009-39D8-4AE5-B19A-4324DE4A0EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77835F7E-5E16-464B-98E2-069C5B69F39A}
+	EndGlobalSection
+EndGlobal
